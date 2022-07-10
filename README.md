@@ -1,6 +1,6 @@
 # tarea-Qgis-banfi-lima
 
-Tarea perteneciente a la #2 del curso de Herramientas Computacionales para Investigación.
+Tarea perteneciente a la clase #2 del curso de Herramientas Computacionales para Investigación.
 
 En este caso, el objetivo es demostrar mediante mapas y gráficos la información que consideremos relevante de la base de datos sobre lugares de Airbnb, indicadores socioeconómicos y delincuencia por barrio en Chicago. Ademas, realizar mapas para variables de condición de actividad y NBI obtenidas del INDEC para Buenos Aires.
 
